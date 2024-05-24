@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AMH Homepage</title>
+</head>
+<body>
+    <h1>Organisation of the Military</h1>
+    <section>
+        <h2>Pre-Great War</h2>
+        <article>
+            <h3>Commonwealth Military Forces (1901-1914)</h3>
+            <p>The Australian Military Forces (Army) was founded in 1901. Until 1914, the AMF was divided into two units. The first full-time unit was called the "Permanent Forces", and the part-time unit was called the "Civilian Forces".</p>
+        </article>
+        <article>
+            <h3>Commonwealth Naval Forces (1901-1911)</h3>
+            <p>The Australian Naval Forces were formed in 1901. The CNF was not as organized as the AMF.</p>
+        </article>
+        <table border>
+            <tr>
+                <th></th>
+                <th>Entire Force</th>
+                <th>Full-Time Force</th>
+                <th>Part-Time Force</th>
+            </tr>
+            <tr>
+                <th>Army</th>
+                <td>Commonwealth Military Forces</td>
+                <td>Permanent Forces</td>
+                <td>Civilian Forces</td>
+            </tr>
+            <tr>
+                <th>Navy</th>
+                <td>Commonwealth Naval Forces</td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+    </section>
+
+    <section>
+        <h2>The Great War</h2>
+        <article>
+            <h3>Australian Military Forces (1914-1921)</h3>
+            <p>In 1914, an expeditionary unit was formed called the "Australian Imperial Force". The AIF also included the newly created Australian Flying Corps. In 1916, the CMF was renamed to the "Australian Military Forces".</p>
+        </article>
+        <article>
+            <h3>Royal Australian Navy (1911-1921)</h3>
+            <p>In 1911, the ANF received royal patronage, and from then on was called the "Royal Australian Navy".</p>
+        </article>
+        <table border>
+            <tr>
+                <th></th>
+                <th>Entire Force</th>
+                <th>Full-Time Force</th>
+                <th>Part-Time Force</th>
+                <th>Expeditionary Force</th>
+                <th>Air Force</th>
+            </tr>
+            <tr>
+                <th>Army</th>
+                <td>Australian Military Forces</td>
+                <td>Permanent Military Forces</td>
+                <td>Civilian Military Forces</td>
+                <td>Australian Imperial Force</td>
+                <td>Australian Flying Corps (Part of AIF)</td>
+            </tr>
+            <tr>
+                <th>Navy</th>
+                <td>Royal Australian Navy</td>
+                <td></td>
+                <td>Royal Australian Naval Volunteer Reserve</td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+    </section>
+
+    <section>
+        <h2>Creation of the RAAF</h2>
+        <article>
+            <h3>Royal Australian Air Force (1921-1980)</h3>
+            <p>In 1920, the AFC was renamed to the "Australian Air Corps". The next year it became a separate branch, the "Royal Australian Air Force" or RAAF.</p>
+        </article>
+        <table border>
+            <tr>
+                <th></th>
+                <th>Entire Force</th>
+                <th>Regular Force</th>
+                <th>Reserve Force</th>
+                <th>Cadet Force</th>
+            </tr>
+            <tr>
+                <th>Army (-1980)</th>
+                <td>Australian Military Forces</td>
+                <td>Australian Regular Army</td>
+                <td>Civilian Military Forces</td>
+                <td>Australian Cadet Corps</td>
+            </tr>
+            <tr>
+                <th>Army (1980-)</th>
+                <td>Australian Army</td>
+                <td>Australian Regular Army</td>
+                <td>Australian Army Reserve</td>
+                <td>Australian Cadet Corps</td>
+            </tr>
+            <tr>
+                <th>Navy</th>
+                <td>Royal Australian Navy</td>
+                <td></td>
+                <td>Royal Australian Naval Reserve</td>
+                <td>Australian Sea Cadet Corps</td>
+            </tr>
+            <tr>
+                <th>Air Force</th>
+                <td>Royal Australian Air Force</td>
+                <td></td>
+                <td>Royal Australian Air Force Reserve</td>
+                <td>Air Training Corps</td>
+            </tr>
+        </table>
+    </section>
+</body>
+</html>

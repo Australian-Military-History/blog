@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AMH Structure</title>
+</head>
+<body>
+	Home > <a href="https://australian-military-history.github.io/blog/organisation.html">Organisation</a> > Structure
+    <h1>Structure</h1>
+    <h2>Corps Structure - 1914</h2>
+<table border>
+	<tr>
+    <th>Australian & New Zealand Army Corps</th>
+    </tr>
+    <td>1st Australian Division (3 Brigades)</td>
+    <tr>
+    <td>New Zealand & Australian Division (3 Brigades)</td>
+    </tr>
+</table>
+    <h2>Corps Structure - 1915</h2>
+<table border>
+	<tr>
+    <th>Australian & New Zealand Army Corps</th>
+    </tr>
+    <td>1st Australian Division (3 Brigades)</td>
+    <tr>
+    <td>New Zealand & Australian Division (3 Brigades)</td>
+    </tr>
+    <td>2nd Australian Division (3 Brigades)</td>
+</table>
+    <h2>Corps Structure - December, 1916</h2>
+<table border>
+	<tr>
+    <th>I ANZAC Corps</th>
+    <th>II ANZAC Corps</th>
+    <th>Australian Imperial Forces</th>
+    </tr>
+    <tr>
+    <td>1st Australian Division (3 Brigades)</td>
+    <td>3rd Australian Division (3 Brigades)</td>
+    <td>1st Division (4 Brigades)</td>
+    <tr>
+    <td>2nd Australian Division (3 Brigades)</td>
+    <td></td>
+    <td>2nd Division (4 Brigades)</td>
+    </tr>
+    <tr>
+    <td>New Zealand Division (3 Brigades)</td>
+    <td></td>
+    <td>3rd Division (4 Brigades)</td>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>4th Division (4 Brigades)</td>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>5th Division (4 Brigades)</td>
+    </tr>
+</table>
+    <h2>Corps Structure - July, 1916</h2>
+<table border>
+	<tr>
+    <th>I ANZAC Corps</th>
+    <th>II ANZAC Corps</th>
+    <th>Australian Imperial Forces</th>
+    </tr>
+    <tr>
+    <td>1st Australian Division (3 Brigades)</td>
+    <td>3rd Australian Division (3 Brigades)</td>
+    <td>1st Division (4 Brigades)</td>
+    <tr>
+    <td>2nd Australian Division (3 Brigades)</td>
+    <td>5th Australian Division (3 Brigades)</td>
+    <td>2nd Division (4 Brigades)</td>
+    </tr>
+    <tr>
+    <td>4th Australian Division (3 Brigades)</td>
+    <td>New Zealand Division (3 Brigades)</td>
+    <td>3rd Division (4 Brigades)</td>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>4th Division (4 Brigades)</td>
+    <tr>
+    <td></td>
+    <td></td>
+    <td>5th Division (4 Brigades)</td>
+    </tr>
+</table>
+</body>
+</html>
